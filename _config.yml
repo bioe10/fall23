@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: BioE 10
+title: BioE10
 description: Introduction to Biomedicine for Engineers
 author: Iain Clark
 baseurl: '/fall23' # the subpath of your site, e.g. /blog
@@ -32,7 +32,7 @@ aux_links:
   EdStem:
     - 'https://edstem.org/us/courses/41881/discussion/'
   GitHub Repository:
-    - 'https://github.com/bioe10/fall23'
+    - 'https://github.io/bioe10/fall23'
 footer_content:
 
 # Collections for website data
